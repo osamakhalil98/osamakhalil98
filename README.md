@@ -1,7 +1,8 @@
-<h1 style='text-align :center'>My name is osama 👨‍💻</h1>
-<p><em>I'm currently on a journey to become a Web Developer, I've been learning MERN stack for over a year now and i wish to be a javascript ninja</em></p>
+<h1 style='text-align :center'>My name is Osama Khalil👨‍💻</h1>
+<h3 style='margin-top:30px'><em>I'm a C.S graduate from Egypt 👨‍🎓. 
+I'm currently on a journey to become a Web Developer, I've been learning MERN stack for over a year now and i wish to become a javascript ninja🐱‍👤 </em></h3>
 
-<img src='https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif'></img>
+<img src='https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif' width='300'></img>
 
 
 
