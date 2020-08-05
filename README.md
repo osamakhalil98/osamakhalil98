@@ -1,9 +1,8 @@
-## `My Name is Osama Khalil👨‍💻`
+## `Hello There 👋, My Name is Osama Khalil👨‍💻`
 
 <br />
-<br />
 
-#### I'm a C.S graduate from Egypt 👨‍🎓. 
+#### I'm a Computer Science graduate from Egypt 👨‍🎓. 
 #### I'm currently on a journey to become a Web Developer, I've been learning MERN stack for over a year now and i wish to become a javascript ninja🐱‍👤 
 
 <br />
