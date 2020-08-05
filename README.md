@@ -18,6 +18,9 @@
 
 </div>
 <br />
+
+## `Coding MOOD:`
+
 <div align='left'>
 <img src='https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif' width='300'></img>
   <p><em>That's the way everyday goes, every time we have no control</em></p>
@@ -33,5 +36,7 @@
 </p>
 <br />
 <br />
+
+## `Stats:`
 
 ![Osama's github stats](https://github-readme-stats.vercel.app/api?username=osamakhalil98&show_icons=true&theme=dark)
