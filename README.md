@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 style='text-align :center'>My name is osama 👨‍💻</h1>
+<p><em>I'm currently on a journey to become a Web Developer, I've been learning MERN stack for over a year now and i wish to be a javascript ninja</em></p>
 
-<!--
-**osamakhalil98/osamakhalil98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src='https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif'></img>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+**Languages and Tools I've used:** 
+<p align="left">
+  <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50"><img src="https://media.giphy.com/media/SU2ic3wTfuC6JhD1lA/giphy.gif" width="50"><img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50"><img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="50"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50">
+  
+</p>
+<br />
+
+![Osama's github stats](https://github-readme-stats.vercel.app/api?username=osamakhalil98&show_icons=true&theme=dark)
