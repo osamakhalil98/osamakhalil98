@@ -20,7 +20,7 @@
 <br />
 <div align='left'>
 <img src='https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif' width='300'></img>
-  <p><em>it's the way everyday goes, everytime we have no control</em></p>
+  <p><em>That's the way everyday goes, every time we have no control</em></p>
  </div>
 <br />
 
