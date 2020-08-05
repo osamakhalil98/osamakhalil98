@@ -1,4 +1,4 @@
-## `Hello There 👋, My Name is Osama Khalil👨‍💻`
+## `Hello There 👋, My Name is Osama Khalil 👨‍💻`
 
 <br />
 
