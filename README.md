@@ -2,8 +2,8 @@
 
 <br />
 
-#### I'm a Computer Science graduate from Egypt 👨‍🎓. 
-#### I'm currently on a journey to become a Front-end engineer, and i wish to become a javascript ninja🐱‍👤 
+## I'm a Computer Science graduate from Egypt 👨‍🎓. 
+## I'm currently on a journey to become a Front-end engineer, and i wish to become a javascript ninja🐱‍👤 
 
 <br />
 
