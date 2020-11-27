@@ -3,7 +3,7 @@
 <br />
 
 #### I'm a Computer Science graduate from Egypt 👨‍🎓. 
-#### I'm currently on a journey to become a Web Developer, I've been learning MERN stack for over a year now and i wish to become a javascript ninja🐱‍👤 
+#### I'm currently on a journey to become a Front-end engineer, and i wish to become a javascript ninja🐱‍👤 
 
 <br />
 
