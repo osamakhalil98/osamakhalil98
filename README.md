@@ -7,16 +7,7 @@
 
 <br />
 
-## `Info:` 
-<div align='left'>
-  
-<img src="https://user-images.githubusercontent.com/27310414/88126699-6c5fa680-cbd2-11ea-94ef-0385cf08206d.png" alt="linkedin" width="20" height="18"/>  [LinkedIn Profile](https://www.linkedin.com/in/osama-khalil-79103214b/)
 
-<img src="https://user-images.githubusercontent.com/27310414/88126696-6bc71000-cbd2-11ea-8726-ff4301da3c55.png" alt="personal website" width="20" height="18"/>  [My Simple Website](https://osamakhalil98.github.io/osama.info/)
-
-<img src="https://user-images.githubusercontent.com/27310414/88126694-6b2e7980-cbd2-11ea-88d5-96045329b3d6.png" alt="twitter" width="20" height="18"/>  [Twitter Account](https://twitter.com/osamakhalil98)
-
-</div>
 <br />
 
 ## `Coding MOOD:`
@@ -37,6 +28,4 @@
 <br />
 <br />
 
-## `Stats:`
 
-![Osama's github stats](https://github-readme-stats.vercel.app/api?username=osamakhalil98&show_icons=true&theme=dark)
